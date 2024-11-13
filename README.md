@@ -22,7 +22,7 @@
 
 Example email:
 
-Hello Su God, Yue God invites you to join the badminton game on 2022-06-01 THUR 1:30-2:30am, this game will be held at UW , please come on time with your equipments and send email transfer to [test@uwaterloo.ca](mailto:test@uwaterloo.ca)
+Hello Su G, Yue G invites you to join the badminton game on 2022-06-01 THUR 1:30-2:30am, this game will be held at UW , please come on time with your equipments and send email transfer to [test@uwaterloo.ca](mailto:test@uwaterloo.ca)
 
 Have fun!
 
